@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scriptFlagPoleCollider.cs">
+    <Files>
+      <File FileName="Assets\Scripts\scriptPlayerControl.cs" Line="58" Column="3" />
+      <File FileName="Assets\Scripts\scriptEnemyGumba.cs" Line="143" Column="37" />
+      <File FileName="Assets\Scripts\scriptProjectileFireball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scriptFlag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scriptCoinRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scriptFlagPoleCollider.cs" Line="22" Column="103" />
+      <File FileName="Assets\Scripts\scriptPlayerProperties.cs" Line="37" Column="11" />
+      <File FileName="Assets\Scripts\scriptMarioCollider.cs" Line="79" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

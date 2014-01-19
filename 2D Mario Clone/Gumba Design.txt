@@ -1,0 +1,20 @@
+Enemy Gumba
+
+Description: Control the state, logic and properties of the Gumba
+
+Gumba States:
+- Move Left
+- Move Right
+- Die
+
+Variables:
+- speed
+- direction
+
+needs to access playerProperties for interactions
+- provide .5 sec platform for mario to jump off after being killed
+
+sound die
+
+ability to animate
+
